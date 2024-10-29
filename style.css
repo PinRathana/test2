@@ -1,0 +1,26 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container{
+    background-color: white;
+    padding: 20px;
+    margin: 30px 100px 30px 100px;
+    border-radius: 10px;
+}
+.container button {
+    padding: 10px;
+    border-radius: 30px ;
+    border: 0px;
+}
+.a{
+    color: white;
+    background-color: rgb(12, 132, 132);
+}
+.b{
+    background-color: darkorange;
+}
+.c{
+    color: white;
+    background-color: darkmagenta;
+}

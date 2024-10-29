@@ -1,0 +1,57 @@
+/* External CSS file: style.css */
+
+    .profile-card{
+        border: 2px solid #000000;
+        width: 250px;
+        height: 450px;
+        padding: 10px 30px;
+        margin: 30px auto;
+        text-align: center;
+        position: relative;
+        
+    }
+    .profile{
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 10px auto;
+        width : 70px;
+        height: 70px;
+    }
+    .describe{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 20px;
+    }
+    .bio{
+        color: #8b8b8b;
+    }
+    .tick{
+        position: absolute;
+        margin-top: 60px;
+        top: 10px;
+        right: 120px;
+        width: 13px;
+        height: 13px;  
+    }
+    .setting{
+        position: absolute;
+        width: 15px;
+        right: 20px;
+        top: 10px;
+    }
+    .role{
+        color: #ababab;
+    }
+    .contacts img{
+        width: 13px;
+        padding: 3px;
+        margin-bottom: 8px;
+    }
+    .profile-button{
+        padding: 5px 30px;
+        border-radius: 15px;
+        background-color: white;
+    }
+    .profile-button:hover{
+        background-color: #ababab;
+    }
